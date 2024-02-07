@@ -2,8 +2,8 @@
 
 Total de 5 aulas.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Taelis |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Spotify: Imersão Front-End**
-| :label: Tecnologias | html, css, javascript (tecnologias utilizadas)
-| :rocket: URL         | [https://taeliscosta.github.io/Tabela-de-Classificao](https://github.com/Taeliscosta/Tabela-de-Classificao)https://github.com/Taeliscosta/Tabela-de-Classificao
+| :label: Tecnologias | html, css, javascript, json (tecnologias utilizadas)
+| :rocket: URL         | [https://github.com/Taeliscosta/Spotify-imersao-alura-FRONT-END/tree/main
