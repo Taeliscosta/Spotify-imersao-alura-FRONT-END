@@ -6,4 +6,4 @@ Total de 5 aulas.
 | -------------  | --- |
 | :sparkles: Nome        | **Spotify: Imersão Front-End**
 | :label: Tecnologias | html, css, javascript, json (tecnologias utilizadas)
-| :rocket: URL         | [https://github.com/Taeliscosta/Spotify-imersao-alura-FRONT-END/tree/main
+| :rocket: URL         | https://github.com/Taeliscosta/Spotify-imersao-alura-FRONT-END/tree/main
