@@ -2,6 +2,7 @@
 
 Total de 5 aulas.
 
+| :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Spotify: Imersão Front-End**
 | :label: Tecnologias | html, css, javascript (tecnologias utilizadas)
